@@ -1,0 +1,21 @@
+userName: sanskrutiagrawal_WF9Rkw
+accessKey:
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - browserName: Safari
+    os: OS X
+    osVersion: Monterey
+    browserVersion: 15.6
+  - browserName: chromium
+    osVersion: 15
+    deviceName: iPhone 13
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: test
+projectName: regression_suite
+networkLogs: true
+consoleLogs: info
+framework: pytest
