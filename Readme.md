@@ -2,6 +2,14 @@
 
 This repository contains automated tests for a web scraper designed to extract data from the El País newspaper. The tests are built using the Pytest framework and can be executed both locally and on the BrowserStack cloud platform.
 
+## Drive Link
+
+As part of the project submission, the following resources are available at the link below:
+
+*   **Screenshots and Test Reports**
+
+**https://drive.google.com/drive/folders/19iPmEaQ8pzw7PwhHVPLI02ylQJ2SXDc7**
+
 ## Prerequisites
 
 Before running the tests, ensure you have the following installed:
